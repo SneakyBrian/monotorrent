@@ -1,0 +1,8 @@
+build/*
+src/MonoTorrent.Dht/obj*/
+src/MonoTorrent.Tests/obj*/
+src/MonoTorrent/obj*/
+src/SampleClient/obj*/
+src/TrackerApp/obj*/
+src/packages*/
+*.suo
